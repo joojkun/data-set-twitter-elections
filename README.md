@@ -14,8 +14,8 @@ Este repositório contém um dataset coletado do Twitter, relacionado às eleiç
 
 - **Total de Tweets Coletados**: 85.749 tweets.
 - **Número de Usuários Diferentes**: Dentre os tweets coletados, 85.749 foram provenientes de diferentes usuários.
-- **Total de Hashtags Registradas**: Foram identificadas um total de 26.101 hashtags.
-- **Hashtags Únicas**: Das hashtags identificadas, 1.456 foram únicas.
+- **Total de Hashtags Registradas**: Foram identificadas um total de 20029 hashtags.
+- **Hashtags Únicas**: Das hashtags identificadas, 4610 foram únicas.
 
 ## Utilização Potencial
 
@@ -29,8 +29,6 @@ Este dataset pode ser valioso para diversas aplicações de análise de dados, i
 ## Considerações Éticas e de Privacidade
 
 Ao utilizar este dataset, é fundamental respeitar as diretrizes de uso da API do Twitter e as leis de privacidade de dados. Certifique-se de proteger a privacidade dos usuários e de obter as autorizações necessárias, caso haja a intenção de divulgar ou compartilhar informações pessoais.
-
-## Conclusão
 
 O dataset de tweets do Twitter relacionados às eleições presidenciais de 2022 oferece uma rica fonte de dados para análise e pesquisa relacionadas ao cenário político. Sua estrutura organizada e as estatísticas gerais apresentadas acima servem como base para futuras análises e estudos sobre a influência das redes sociais nas eleições.
 
