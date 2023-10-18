@@ -34,6 +34,3 @@ O dataset de tweets do Twitter relacionados às eleições presidenciais de 2022
 
 Por favor, observe que a utilização deste dataset está sujeita aos termos e condições da API oficial do Twitter e às leis de proteção de dados vigentes. É importante respeitar a privacidade e a ética ao lidar com esses dados.
 
-## Como citar este Data Set
-
-PINTO, Johnny Sarafim; SILVA, Thiago H.. Caracterização de Grupos Políticos no Telegram Durante a Eleição Presidencial de 2022. In: CONCURSO DE TRABALHOS DE INICIAÇÃO CIENTÍFICA - SIMPÓSIO BRASILEIRO DE SISTEMAS MULTIMÍDIA E WEB (WEBMEDIA), 29. , 2023, Ribeirão Preto/SP. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2023 . p. 55-58. ISSN 2596-1683. DOI: https://doi.org/10.5753/webmedia_estendido.2023.235697.
