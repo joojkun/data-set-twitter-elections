@@ -7,7 +7,7 @@ Este repositório contém um dataset coletado do Twitter, relacionado às eleiç
 ## Descrição Geral do Dataset
 
 - **Ferramenta da Coleta**: API oficial do Twitter.
-- **Período da Coleta**: A coleta de tweets ocorreu semanalmente, abrangendo o mesmo período de tempo de 16/09/2022 até 11/11/2022.
+- **Período da Coleta**: A coleta de tweets ocorreu semanalmente, abrangendo o período de tempo de 16/09/2022 até 11/11/2022.
 - **Horário da Coleta**: Das 23h de sexta-feira às 6h de sábado, garantindo a captura de todas as hashtags relevantes que poderiam surgir ao longo da semana.
 
 ### Estatísticas Gerais
